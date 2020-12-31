@@ -1,7 +1,5 @@
-public class awss3object {
-
+public class awss3object2 {
     public static void main(String args[]){
-
         System.out.println("hello guru");
         System.out.println("hello gurus2");
         System.out.println("hello gurus3");
@@ -12,6 +10,7 @@ public class awss3object {
     public void masterStashmethod1(){
         // wiil visit back
     }
+
     public void superMethodInMaster(){
         // hello
     }
