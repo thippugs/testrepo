@@ -22,9 +22,6 @@ public class awss3object {
         System.out.println("hello gurus5");
         System.out.println("hello gurus5 FeatureBranch 1");
     }
-    public void feature1Stashmethod2(){
-        // featureStashMethod2
-    }
     public void feature1Stashmethod1(){
         // nothing doing
     }
