@@ -24,5 +24,6 @@ public class awss3object {
     }
     public void feature1Stashmethod1(){
         // nothing doing
+        //added this
     }
 }
