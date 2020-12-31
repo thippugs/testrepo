@@ -11,4 +11,7 @@ public class awss3object {
     public void masterStashmethod1(){
         // wiil visit back
     }
+    public void Feature2Stashmethod1(){
+        // wiil visit back
+    }
 }
