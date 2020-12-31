@@ -15,6 +15,11 @@ public class awss3object2 {
         // hello
     }
 
+
+    public void Feature2Stashmethod1(){
+        // wiil visit back
+    }
+
      public void methodTest(){
         // added new method to local repo2
      }
