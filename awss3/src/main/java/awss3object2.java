@@ -9,4 +9,8 @@ public class awss3object2 {
     public void masterStashmethod1(){
         // wiil visit back
     }
+
+    public void superMethodInMaster(){
+        // hello
+    }
 }
